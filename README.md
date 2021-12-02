@@ -6,7 +6,7 @@
 
 by Cristobal Hernandez
 
-Published video URL: https://budget-tracker-offline-thinngy.herokuapp.com/
+Published video URL: https://mighty-plains-53818.herokuapp.com/
 
 
 # Section 02: General Information
